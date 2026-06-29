@@ -1,0 +1,11 @@
+id,name,age,department,cgpa,join_date,city
+101,Ali,21,Computer Science,3.7,2024-01-15 00:00:00.000000,Lahore
+102,Sara,21,Software Engineering,3.9,2024-02-15 00:00:00.000000,Islamabad
+103,Ahmed,20,AI,3.55,2024-03-10 00:00:00.000000,Karachi
+104,Ayesha,23,Data Science,3.8,2024-04-12 00:00:00.000000,Lahore
+105,Hassan,21,Cyber Security,3.2,2024-05-20 00:00:00.000000,Peshawar
+106,Zainab,22,AI,3.6,2024-06-15 00:00:00.000000,Islamabad
+107,Umar,21,Computer Science,3.4,2024-07-01 00:00:00.000000,Karachi
+108,Maria,21,Software Engineering,3.9,2024-08-10 00:00:00.000000,Lahore
+109,Bilal,22,Data Science,3.1,2026-06-29 14:57:10.746546,Multan
+110,Hina,23,Cyber Security,3.7,2024-10-05 00:00:00.000000,Faisalabad

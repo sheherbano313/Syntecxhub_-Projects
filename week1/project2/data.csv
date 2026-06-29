@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Gender,Department,CGPA,City
+101,Ali,21,Male,Computer Science,3.7,Lahore
+102,Sara,22,Female,Software Engineering,3.9,Islamabad
+103,Ahmed,20,Male,AI,3.5,Karachi
+104,Ayesha,23,Female,Data Science,3.8,Lahore
+105,Hassan,21,Male,Cyber Security,3.2,Peshawar
+106,Zainab,22,Female,AI,3.6,Islamabad
+107,Umar,20,Male,Computer Science,3.4,Karachi
+108,Maria,21,Female,Software Engineering,3.9,Lahore
+109,Bilal,22,Male,Data Science,3.1,Multan
+110,Hina,23,Female,Cyber Security,3.7,Faisalabad

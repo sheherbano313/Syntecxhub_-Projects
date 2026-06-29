@@ -1,0 +1,14 @@
+Missing Values:
+ID            0
+Name          0
+Age           2
+Department    0
+CGPA          1
+Join_Date     1
+City          0
+dtype: int64
+
+Data Types Fixed
+Duplicates Removed : 1
+Column Names Standardized
+Cleaned dataset saved as cleaned_data.csv
